@@ -1,0 +1,406 @@
+{
+  "categories": [
+    { "id": 1, "name": "women clothes" },
+    { "id": 2, "name": "men clothes " },
+    { "id": 3, "name": "children clothes" },
+    { "id": 4, "name": "bags & shoes" }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Baggy Jeans for Women",
+      "description": "High Waisted Wide Straight Leg Bow Jeans Denim Pants",
+      "price": 600.0,
+      "category_id": 1,
+      "images": [
+        "./images/Baggy.jpg",
+        "./images/Baggy.1.jpg",
+        "./images/Baggy.2.jpg"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "SweatyRocks",
+      "description": "Women's Casual Lace Up Long Sleeve Pullover Crop Top Sweatshirt",
+      "price": 1000.0,
+      "category_id": 1,
+      "images": [
+        "./images/SweatyRocks.jpg",
+        "./images/SweatyRocks.1.jpg",
+        "./images/SweatyRocks.2.jpg"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Knit Cropped Sweater",
+      "description": "Womens Kawaii Strawberry Knit Cropped Sweater Cute Cardigan ",
+      "price": 800.0,
+      "category_id": 1,
+      "images": [
+        "./images/Knit Cropped Sweater.jpg",
+        "./images/Knit Cropped Sweater.1.jpg",
+        "./images/Knit Cropped Sweater.2.jpg"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Hoodie",
+      "description": "Long Sleeve Patchwork Sweatshirts Kawaii Frog Graphic Pullover with Pocket ",
+      "price": 500.0,
+      "category_id": 1,
+      "images": [
+        "./images/Hoodie.jpg",
+        "./images/Hoodie.1.jpg",
+        "./images/Hoodie.2.jpg"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Skirt",
+      "description": "Belle Poque Women's High Waist A-Line Pockets Skirt Skater Flared Midi Skirt ",
+      "price": 580.0,
+      "category_id": 1,
+      "images": [
+        "./images/Skirt.jpg",
+        "./images/Skirt.1.jpg",
+        "./images/Skirt.2.jpg"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "SOFT BUTTON COAT",
+      "description": "Long sleeve coat with a lapel collar. Front button fastening ",
+      "price": 2490.0,
+      "category_id": 1,
+      "images": [
+        "./images/coat1.jpg",
+        "./images/coat2.jpg",
+        "./images/coat3.jpg"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "LONG SINGLE-BUTTON COAT",
+      "description": "Coat with a lapel collar and long sleeves. Front welt pockets. Single-button fastening at the front ",
+      "price": 3590.0,
+      "category_id": 1,
+      "images": [
+        "./images/coat4.jpg",
+        "./images/coat5.jpg",
+        "./images/coat6.jpg"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "RIBBED DRESS WITH BELT",
+      "description": "Midi dress with a round neck and long sleeves with shoulder straps. Matching fabric belt adjustable with buttons",
+      "price": 900.0,
+      "category_id": 1,
+      "images": [
+        "./images/dress4.jpg",
+        "./images/dress5.jpg",
+        "./images/dress6.jpg"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Jacket",
+      "description": "Winter Casual Thicken Multi Pocket Field Jacket Outwear Fleece Cargo Jackets Coat ",
+      "price": 1500.0,
+      "category_id": 2,
+      "images": [
+        "./images/Jacket.jpg",
+        "./images/Jacket.1.jpg",
+        "./images/Jacket.2.jpg"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "T-Shirts",
+      "description": "Mens T-Shirts, Regular-Fit, Short-Sleeve Crewneck Pocket ",
+      "price": 500.0,
+      "category_id": 2,
+      "images": [
+        "./images/T-Shirts.jpg",
+        "./images/T-Shirts.1.jpg",
+        "./images/T-Shirts.2.jpg"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Sweater",
+      "description": "Sweater Mens Colorblock Jumper Cable Knitted Pullover Oversized ",
+      "price": 1500.0,
+      "category_id": 2,
+      "images": [
+        "./images/Sweater.jpg",
+        "./images/Sweater.1.jpg",
+        "./images/Sweater.2.jpg"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Bomber Jacket ",
+      "description": "Men's Bomber Jacket Fashion Stylish Lightweight Windbreaker Spring Fall Casual Jackets for Men ",
+      "price": 1800.0,
+      "category_id": 2,
+      "images": [
+        "./images/Bomber.jpg",
+        "./images/Bomber.1.jpg",
+        "./images/Bomber.2.jpg"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Pants ",
+      "description": "Men's Casual Cargo Pants Drawstring Hiking Pants Workout Tactical Joggers Sweatpants for Men ",
+      "price": 800.0,
+      "category_id": 2,
+      "images": [
+        "./images/Pants.jpg",
+        "./images/Pants.1.jpg",
+        "./images/Pants.2.jpg"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Regular Fit Long Sleeve 2 Piecet Set ",
+      "description": "Main Fabric Content : Cotton 47%,Polyester 53% ",
+      "price": 300.0,
+      "category_id": 2,
+      "images": [
+        "./images/homeman1.jpg",
+        "./images/homeman2.jpg",
+        "./images/homeman3.jpg"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Regular Fit Top Bottom 2 Piece Pajama Set ",
+      "description": "Main Fabric Content : Cotton 100%",
+      "price": 600.0,
+      "category_id": 2,
+      "images": [
+        "./images/homeman4.jpg",
+        "./images/homeman5.jpg",
+        "./images/homeman6.jpg"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "CONTRAST COLLAR POLO SHIRT ",
+      "description": "Regular fit polo shirt. Lapel collar with concealed button fastening under the placket. Long sleeves.",
+      "price": 800.0,
+      "category_id": 2,
+      "images": [
+        "./images/polo1.jpg",
+        "./images/polo2.jpg",
+        "./images/polo3.jpg"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Girls' Dresses ",
+      "description": "Essentials Disney | Marvel | Star Wars | Princess Babies, Toddlers, and Girls' Dresses.",
+      "price": 800.0,
+      "category_id": 3,
+      "images": [
+        "./images/Dresses.jpg",
+        "./images/Dresses.1.jpg",
+        "./images/Dresses.2.jpg"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "shirts ",
+      "description": "Toddler Boys 4 Pieces T-shirts and Shorts Summer Outfit Striped Shirt Short Set.",
+      "price": 1800.0,
+      "category_id": 3,
+      "images": [
+        "./images/shirts.jpg",
+        "./images/shirts.1.jpg",
+        "./images/shirts.2.jpg"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Pants ",
+      "description": "BTween Kids Girl's Fashion Stretch Waist Ultra Soft Jogger Pants Set - 3 Pack Bundle.",
+      "price": 1600.0,
+      "category_id": 3,
+      "images": [
+        "./images/kidsPants.jpg",
+        "./images/kidsPants.1.jpg",
+        "./images/kidsPants.2.jpg"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Shorts ",
+      "description": "The Children's Place Baby Girls' and Toddler Pull on Chambray Shorts.",
+      "price": 600.0,
+      "category_id": 3,
+      "images": [
+        "./images/Shorts.jpg",
+        "./images/Shorts.1.jpg",
+        "./images/Shorts.2.jpg"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Crop Top ",
+      "description": "Girls Summer Crop Tops Color Block Vest Cute .",
+      "price": 690.0,
+      "category_id": 3,
+      "images": [
+        "./images/CropTop.jpg",
+        "./images/CropTop.1.jpg",
+        "./images/CropTop.2.jpg"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Baby Girl Long Sleeve",
+      "description": "Main Fabric Content : Cotton 100%,Elastane 0%,Polyester 0% .",
+      "price": 1399.0,
+      "category_id": 3,
+      "images": [
+        "./images/baby1.jpg",
+        "./images/baby2.jpg",
+        "./images/baby3.jpg"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Boy Jogger Trousers",
+      "description": "Main Fabric Content : Cotton 67%,Elastane 3%,Polyester 30% .",
+      "price": 400.0,
+      "category_id": 3,
+      "images": [
+        "./images/boypants.jpg",
+        "./images/boypants2.jpg",
+        "./images/boypants3.jpg"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Baby Boy Waterproof Plush Puffer Jacket",
+      "description": "Main Fabric Content : Polyester 100% .",
+      "price": 1400.0,
+      "category_id": 3,
+      "images": [
+        "./images/waterproof1.jpg",
+        "./images/waterproof2.jpg",
+        "./images/waterproof3.jpg"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Faux Leather Flat Sole Boots",
+      "description": "Main Fabric Content : Polyurethane 100%.",
+      "price": 900.0,
+      "category_id": 4,
+      "images": [
+        "./images/boot1.jpg",
+        "./images/boot2.jpg",
+        "./images/boot3.jpg"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Girl High Sole Faux Leather Sneakers",
+      "description": "Main Fabric Content : Textile Materials 40%,Polyurethane 60%.",
+      "price": 900.0,
+      "category_id": 4,
+      "images": [
+        "./images/shoes1.jpg",
+        "./images/shoes2.jpg",
+        "./images/shoes3.jpg"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Girl Thick Sole Sneakers",
+      "description": "Main Fabric Content : Textile Materials 80%,Polyurethane 20%.",
+      "price": 900.0,
+      "category_id": 4,
+      "images": [
+        "./images/shoes4.jpg",
+        "./images/shoes5.jpg",
+        "./images/shoes6.jpg"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Boy Faux Leather Thick Sole Sneaker",
+      "description": "Main Fabric Content : Polyurethane 100%.",
+      "price": 800.0,
+      "category_id": 4,
+      "images": ["./images/sh1.jpg", "./images/sh2.jpg", "./images/sh3.jpg"]
+    },
+    {
+      "id": 129,
+      "name": "Man Flat Bottom Home Boots",
+      "description": "Main Fabric Content : Textile Materials 100%.",
+      "price": 600.0,
+      "category_id": 4,
+      "images": ["./images/sh4.jpg", "./images/sh5.jpg", "./images/sh6.jpg"]
+    },
+    {
+      "id": 130,
+      "name": "DOUBLE STRAP HIGH HEEL SHOES",
+      "description": "Stiletto heel shoes with double thin strap detail on the front. Ankle strap with buckle fastening. Pointed toe.",
+      "price": 1600.0,
+      "category_id": 4,
+      "images": ["./images/sh7.jpg", "./images/sh8.jpg", "./images/sh9.jpg"]
+    },
+    {
+      "id": 131,
+      "name": "FLAT ANKLE BOOTS WITH BUCKLE",
+      "description": "Ankle boots. Buckle detail on the leg. Back pull tab. Side zip fastening. Round toe.",
+      "price": 1200.0,
+      "category_id": 4,
+      "images": [
+        "./images/shoes7.jpg",
+        "./images/shoes8.jpg",
+        "./images/shoes9.jpg"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "CHELSEA BUCKLE HEELED ANKLE BOOTS",
+      "description": "Heeled ankle boots with ridged sole. Chelsea style. Buckle detail on the shaft and elasticated side panels. Pull tab at the back. Zip fastening. Round toe.",
+      "price": 1800.0,
+      "category_id": 4,
+      "images": [
+        "./images/shoes10.jpg",
+        "./images/shoes11.jpg",
+        "./images/shoes12.jpg"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Woman Suede Shoulder Bag",
+      "description": "Main Fabric Content : Polyurethane 100%.",
+      "price": 800.0,
+      "category_id": 4,
+      "images": ["./images/bag1.jpg", "./images/bag2.jpg", "./images/bag3.jpg"]
+    },
+    {
+      "id": 134,
+      "name": "Woman Faux Leather Shoulder Bag",
+      "description": "Main Fabric Content : Polyurethane 100%.",
+      "price": 700.0,
+      "category_id": 4,
+      "images": ["./images/bag4.jpg", "./images/bag5.jpg", "./images/bag6.jpg"]
+    },
+    {
+      "id": 135,
+      "name": "Woman Faux Leather Shoulder Bag",
+      "description": "Main Fabric Content : Polyurethane 100%.",
+      "price": 1000.0,
+      "category_id": 4,
+      "images": ["./images/bag7.jpg", "./images/bag8.jpg", "./images/bag9.jpg"]
+    }
+  ]
+}
