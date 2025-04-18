@@ -309,7 +309,7 @@ document.addEventListener("DOMContentLoaded", function () {
             "id": 101,
             "name": "Women Clothes",
             "category_id": 1,
-            "image": "../assets/Rectangle 19451.png"
+            "image": ".../assets/Rectangle 19451.png"
         },
         {
             "id": 112,
